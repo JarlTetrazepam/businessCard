@@ -1,0 +1,21 @@
+{
+  "name": "businessCard",
+  "version": "1.0.0",
+  "description": "The first project of the Bigson Dev project series",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JarlTetrazepam/businessCard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JarlTetrazepam/businessCard/issues"
+  },
+  "homepage": "https://github.com/JarlTetrazepam/businessCard#readme"
+}
